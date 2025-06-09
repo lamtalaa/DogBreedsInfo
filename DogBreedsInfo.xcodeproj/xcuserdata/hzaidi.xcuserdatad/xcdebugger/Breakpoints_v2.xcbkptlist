@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4E6CA6F8-D5F4-47C0-8BB1-7464B6002005"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "042EB488-4BFC-4310-817E-D1C037C5EA5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DogBreedsInfo/DogImageUI/MockNetworkLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "fetchDogImages(breed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "042EB488-4BFC-4310-817E-D1C037C5EA5E - 1978fd703c9ca76c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for DogBreedsInfo.MockNetworkLayer.fetchDogImages(breed: Swift.String) async throws -&gt; Swift.Array&lt;DogBreedsInfo.DogImage&gt;"
+                  moduleName = "DogBreedsInfo.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hzaidi/sharedProject/day33_06_09/DogBreedsInfo/DogBreedsInfo/DogImageUI/MockNetworkLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16">
+               </Location>
+               <Location
+                  uuid = "042EB488-4BFC-4310-817E-D1C037C5EA5E - 9b34fdbfc7da8161"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for DogBreedsInfo.MockNetworkLayer.fetchDogImages(breed: Swift.String) async throws -&gt; Swift.Array&lt;DogBreedsInfo.DogImage&gt;"
+                  moduleName = "DogBreedsInfo.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hzaidi/sharedProject/day33_06_09/DogBreedsInfo/DogBreedsInfo/DogImageUI/MockNetworkLayer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B56BBC86-38A9-4F47-A3F5-D5EC503DE582"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DogBreedsInfo/DogImageUI/MockNetworkLayer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "fetchDogImages(breed:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
