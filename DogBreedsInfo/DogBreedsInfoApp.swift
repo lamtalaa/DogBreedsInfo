@@ -11,7 +11,8 @@ import SwiftUI
 struct DogBreedsInfoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DogNamesList()
         }
     }
 }
+
